@@ -1,2 +1,2 @@
 # blog
-the paper about blockchain is in ./source/_post folder
+the papers about blockchain are in ./source/_post folder
